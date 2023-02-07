@@ -4,7 +4,7 @@ Symmetric encryption, such as AES<br>
 Asymmetric encryption, such as RSA<br>
 Diffie-Hellman Key Exchange<br>
 Hashing<br>
-PKI<br>
+PKI- an arrangement that binds public keys with respective identities of entities (like people and organizations).<br>
 Cryptographic Algorithm or Cipher This algorithm defines the encryption and decryption processes.<br>
 Key The cryptographic algorithm needs a key to convert the plaintext into ciphertext and vice versa.
 plaintext is the original message that we want to encrypt<br>
