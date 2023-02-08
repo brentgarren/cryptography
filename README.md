@@ -33,3 +33,10 @@ https://www.quipqiup.com/ can be used to solve simple encryption
 Symmetric Encryption
 
 A symmetric encryption algorithm uses the same key for encryption and decryption. Consequently, the communicating parties need to agree on a secret key before being able to exchange any messages.
+
+Sender -> Plaintext -> [Encrypt(KEY)] -> CipherText -> [Decrypt(KEY)] -> Plaintext -> Recipient
+
+note that both share the same key and the key is usually transferred over a secure channel between both parties.
+
+
+--------------
