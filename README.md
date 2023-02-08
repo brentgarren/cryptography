@@ -52,3 +52,15 @@ The Block Cipher symmetric encryption "shown below"
 
 The other type of symmetric encryption algorithm is stream ciphers, which encrypt the plaintext byte by byte. Consider the case where we want to encrypt the message “TANGO HOTEL MIKE”; each character needs to be converted to its binary representation. If we use ASCII, “T” is 0x54 in hexadecimal, while “A” is 0x41, and so on. The encryption method will process one byte at a time. This is represented in the figure below.<br>
 ![cypher4](https://user-images.githubusercontent.com/105601437/217410816-2af8806b-b450-4f5d-b544-d9b866bdfbd7.png)<br>
+
+
+--------------
+
+One of the biggest problems with symetricall encryption is scalability for instance if we had 3 users who needed to share information Bob Tom and Max.
+We would need a Bob -> Tom Tom -> Max and Bob -> Max 
+With more users for instance 100 users would require 5000 keys with each paring requiring a unique key with every other person.
+With the added issue being if one system is compromised you have the regenerate another 5000 keys for every user again
+
+--------------
+
+
