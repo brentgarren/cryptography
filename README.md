@@ -50,4 +50,5 @@ The Block Cipher symmetric encryption "shown below"
 
 --------------
 
+The other type of symmetric encryption algorithm is stream ciphers, which encrypt the plaintext byte by byte. Consider the case where we want to encrypt the message “TANGO HOTEL MIKE”; each character needs to be converted to its binary representation. If we use ASCII, “T” is 0x54 in hexadecimal, while “A” is 0x41, and so on. The encryption method will process one byte at a time. This is represented in the figure below.<br>
 ![cypher4](https://user-images.githubusercontent.com/105601437/217410816-2af8806b-b450-4f5d-b544-d9b866bdfbd7.png)<br>
