@@ -14,7 +14,9 @@ ciphertext - is the message in its encrypted form<br>
 
 One of the simplest form of cryptography is the caeser cipher. Wherein you shift every letter either further or backwards an "X" amount of spaces.
 
-The caeser cipher is considered a substition cipher as each letter is substitued with another letter.
+The caeser cipher is considered a substition cipher as each letter is substitued with another letter.<br>
+![cypher1](https://user-images.githubusercontent.com/105601437/217408704-e69a8bf9-042d-4b12-aef8-80e2c91f7829.png)
+<br>
 
 --------------
 
@@ -23,3 +25,8 @@ Transpositional Cipher which mixes the order of the letters while still substitu
 https://www.quipqiup.com/ can be used to solve simple encryption
 
 --------------
+
+
+Symmetric Encryption
+
+A symmetric encryption algorithm uses the same key for encryption and decryption. Consequently, the communicating parties need to agree on a secret key before being able to exchange any messages.
