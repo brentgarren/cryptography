@@ -44,7 +44,8 @@ note that both share the same key and the key is usually transferred over a secu
 
 
 --------------
-
+The Block Cipher symmetric encryption "shown below" 
+<br>A block cipher algorithm converts the input (plaintext) into blocks and encrypts each block. A block is usually 128 bits. In the figure below, we want to encrypt the plaintext “TANGO HOTEL MIKE”, a total of 16 characters. The first step is to represent it in binary. If we use ASCII, “T” is 0x54 in hexadecimal format, “A” is 0x41, and so on. Every two hexadecimal digits constitute 8 bits and represent one byte. A block of 128 bits is practically 16 bytes and is represented in a 4 by 4 array. The 128-bit block is fed as one unit to the encryption method.<br>
 ![cypher3](https://user-images.githubusercontent.com/105601437/217410785-c51a1954-ec1d-4b24-8f38-7622184c1511.png)<br>
 
 --------------
