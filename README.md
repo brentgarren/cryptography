@@ -44,3 +44,6 @@ note that both share the same key and the key is usually transferred over a secu
 
 
 --------------
+
+![cypher3](https://user-images.githubusercontent.com/105601437/217410785-c51a1954-ec1d-4b24-8f38-7622184c1511.png)<br>
+![cypher4](https://user-images.githubusercontent.com/105601437/217410816-2af8806b-b450-4f5d-b544-d9b866bdfbd7.png)<br>
