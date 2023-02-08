@@ -20,7 +20,10 @@ The caeser cipher is considered a substition cipher as each letter is substitued
 
 --------------
 
-Transpositional Cipher which mixes the order of the letters while still substituting each letter for another "X" spaces away To figure out the order of letters we would need a key for instance 12345 which would write the alphabet vertically and then using a key 5 substition to find the message.
+Transpositional Cipher which mixes the order of the letters while still substituting each letter for another "X" spaces away To figure out the order of letters we would need a key for instance 12345 which would write the alphabet vertically and then using a key 5 substition to find the message. <br>
+
+![cypher](https://user-images.githubusercontent.com/105601437/217408822-68fd7207-bc04-4600-a676-8578b9a6436c.png)
+<br>
 
 https://www.quipqiup.com/ can be used to solve simple encryption
 
