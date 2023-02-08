@@ -36,6 +36,10 @@ A symmetric encryption algorithm uses the same key for encryption and decryption
 
 Sender -> Plaintext -> [Encrypt(KEY)] -> CipherText -> [Decrypt(KEY)] -> Plaintext -> Recipient
 
+During the process the Sender provides the encryption process
+
+During the process the recipient provides the decrypt process
+
 note that both share the same key and the key is usually transferred over a secure channel between both parties.
 
 
